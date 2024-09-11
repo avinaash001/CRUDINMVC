@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDINMVC", "CRUDINMVC.csproj", "{A0172A90-BF45-42D8-9C46-0041865EE028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0172A90-BF45-42D8-9C46-0041865EE028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0172A90-BF45-42D8-9C46-0041865EE028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0172A90-BF45-42D8-9C46-0041865EE028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0172A90-BF45-42D8-9C46-0041865EE028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFEC167F-C37E-406A-B12A-5010A10BF0D9}
+	EndGlobalSection
+EndGlobal
